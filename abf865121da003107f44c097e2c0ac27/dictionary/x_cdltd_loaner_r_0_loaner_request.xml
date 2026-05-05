@@ -8,8 +8,12 @@
                 <element inactive_on_update="false" label="Projector" sequence="2" value="cmdb_ci_projector"/>
             </choice>
         </element>
+        <element label="Overdue reminder" max_length="255" name="overdue_reminder" type="glide_date_time"/>
+        <element label="Overdue reminder" max_length="255" name="last_overdue_reminder" type="glide_date_time"/>
         <element label="Pick up reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
         <element label="Start date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
+        <element label="Return reminder" max_length="40" name="return_reminder" type="glide_date_time"/>
+        <element label="Overdue count" max_length="255" name="overdue_count" type="integer"/>
         <element label="Location to be used" max_length="40" name="location_to_be_used" type="string"/>
         <element choice="3" default="sc" label="Depot" max_length="40" name="depot" type="choice">
             <choice>
