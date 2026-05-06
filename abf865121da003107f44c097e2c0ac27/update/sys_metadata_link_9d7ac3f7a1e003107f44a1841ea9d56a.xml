@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>34fedd874d2003107f44c37535063c11</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="x_cdltd_loaner_r_0_loaner_request">
+    <x_cdltd_loaner_r_0_loaner_request action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at>2026-05-04 14:58:15</closed_at>
+        <closed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</closed_by>
+        <cmdb_ci/>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <delivery_plan/>
+        <delivery_task/>
+        <depot>sc</depot>
+        <description>Test Open #1</description>
+        <due_date/>
+        <end_date>2026-05-16 01:17:49</end_date>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <group_list/>
+        <impact>3</impact>
+        <item_type>cmdb_ci_computer</item_type>
+        <knowledge>false</knowledge>
+        <last_overdue_reminder/>
+        <location/>
+        <location_to_be_used/>
+        <made_sla>true</made_sla>
+        <number>LNR002003</number>
+        <opened_at>2026-05-04 00:20:18</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <other/>
+        <overdue_count/>
+        <overdue_reminder/>
+        <parent/>
+        <pick_up_reminder/>
+        <priority>4</priority>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <requested_for display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</requested_for>
+        <return_reminder/>
+        <route_reason/>
+        <service_offering/>
+        <short_description>Test Open #1</short_description>
+        <sla_due/>
+        <start_date>2026-05-04 01:17:48</start_date>
+        <state>3</state>
+        <sys_class_name>x_cdltd_loaner_r_0_loaner_request</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-04 00:20:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>34fedd874d2003107f44c37535063c11</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-04 14:58:15</sys_updated_on>
+        <task_effective_number>LNR002003</task_effective_number>
+        <time_worked/>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <watch_list/>
+        <wf_activity/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+    </x_cdltd_loaner_r_0_loaner_request>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-06 16:05:27</sys_created_on>
+        <sys_id>9d7ac3f7a1e003107f44a1841ea9d56a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LNR002003</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">abf865121da003107f44c097e2c0ac27</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">abf865121da003107f44c097e2c0ac27</sys_scope>
+        <sys_update_name>sys_metadata_link_9d7ac3f7a1e003107f44a1841ea9d56a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-06 16:05:27</sys_updated_on>
+        <tablename>x_cdltd_loaner_r_0_loaner_request</tablename>
+    </sys_metadata_link>
+</record_update>
